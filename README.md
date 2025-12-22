@@ -62,3 +62,7 @@ Martinez Pandiani, D.S., Klein, E., Menhebi, D., Voorzanger, L. (forthcoming, 20
 ## License
 
 This repository is released under a [CC BY 4.0] license.
+
+## Acknowledgements
+We thank the Amsterdam-based creative studio [affect lab]([url](https://www.affectlab.org/)) and Dr. Natalie Dixon for providing access to the data of their [Ctrl.Alt.Img](https://www.affectlab.org/ctrlaltimg) project.
+
